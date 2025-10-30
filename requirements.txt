@@ -1,6 +1,0 @@
-torch
-pandas
-numpy
-scikit-learn
-torch-geometric
-openpyxl
